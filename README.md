@@ -1,15 +1,17 @@
 # GettingAndCleaningWeek4
-#Read the values in the activity_labels and features and store into 2 datasets:actLabels and features
 
-#The above tables have 2 columns, 2nd one is changed to have characters
+##Steps are as follows:
+###Read the values in the activity_labels and features and store into 2 datasets:actLabels and features
 
-#Extracting only the mean and standard deviation for each measurement
+###The above tables have 2 columns, 2nd one is changed to have characters
 
-#Load the train and test datasets
+###Extracting only the mean and standard deviation for each measurement
 
-#Merge datasets and set column names
+###Load the train and test datasets
 
-#change activites and subjects to factors
+###Merge datasets and set column names
 
-#Write the table into a txt file
+###change activites and subjects to factors
+
+###Write the table into a txt file
 
