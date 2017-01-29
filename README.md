@@ -1,4 +1,5 @@
 # GettingAndCleaningWeek4
+As
 
 ##Steps are as follows:
 ###Read the values in the activity_labels and features and store into 2 datasets:actLabels and features
