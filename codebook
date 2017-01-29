@@ -1,0 +1,7 @@
+actLabels: File containing the activitylabels
+features: File containing the features
+featuresreq: Contains only mean and sd data
+train: Contains training data
+test: Contains testing data
+maindata: Merged dataset of train and test
+tidy.txt: Final file with the tidy data
