@@ -1,8 +1,8 @@
 # GettingAndCleaningWeek4
-As part of this assignment, teh following files exist in the submitted repo:
-1. README.md- Deatiled file
-2. CodeBook- Codebook with the variables descriptions
-3. run_analysis.R- R code for the tidy file to be created
+As part of this assignment, the following files exist in the submitted repo:
+1 README.md- Deatiled file
+2 CodeBook- Codebook with the variables descriptions
+3 run_analysis.R- R code for the tidy file to be created
 
 
 
